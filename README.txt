@@ -1,12 +1,5 @@
-Sixin He
-(She89)
-
-CS 7641 - Machine Learning
-Assignment 1 Supervised Learning
-
 Datasets:
-Both datasets are attached in the submission.
-
+Both datasets are attached, but jus in case:
 Wine Quality - White
 https://archive.ics.uci.edu/ml/datasets/wine+quality
 only need to download the winequality-white.csv
