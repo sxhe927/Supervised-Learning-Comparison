@@ -1,5 +1,3 @@
-# This is for CS 7641 Machine Learning Assignment 1
-# Sixin He (she89) @ Georgia Tech
 # The following code is meant to do supervised learing for the Wine Quality dataset
 # Be sure all the libraries and packets are installed
 # Five learning algorithms are implemented one by one, it is recommeded to run each of them and comment the others
