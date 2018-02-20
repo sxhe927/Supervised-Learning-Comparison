@@ -1,5 +1,5 @@
 Datasets:
-Both datasets are attached, but jus in case:
+Both datasets are attached, but just in case:
 Wine Quality - White
 https://archive.ics.uci.edu/ml/datasets/wine+quality
 only need to download the winequality-white.csv
